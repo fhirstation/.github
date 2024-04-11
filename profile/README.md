@@ -1,4 +1,5 @@
 # The FHIR Station
+> We are not affiliated with HL7 International.
 
 We build tooling in Python for working with FHIR.
 
